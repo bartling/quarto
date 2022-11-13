@@ -1,0 +1,7 @@
+---
+title: "test this"
+date: "2022-11-13"
+categories: [publications]
+---
+
+Testing a post to netifly

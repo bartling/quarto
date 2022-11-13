@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: '3a78c804-b310-4e90-b9d1-0b6ffa63be36'
+    - url: 'https://cosmic-gnome-bb6dd0.netlify.app'

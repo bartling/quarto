@@ -10,3 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+[Mastodon verification](https://fediscience.org/@hughbartling){rel="me" style="display: none;"}
