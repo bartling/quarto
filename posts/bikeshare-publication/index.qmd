@@ -1,0 +1,7 @@
+---
+title: "Publication on Bike Share Usage"
+date: "2022-11-11"
+categories: [publications]
+---
+
+I have a new article published in the *International Journal of Sustainable Transportation* that looks at what motivates bike share users to substitute for other modes of transport. You can find the article [here](https://www.tandfonline.com/doi/full/10.1080/15568318.2022.2113577?scroll=top&needAccess=true).

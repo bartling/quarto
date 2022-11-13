@@ -1,0 +1,19 @@
+---
+title: "About"
+about:
+  template: trestles
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://fediscience.org/@hughbartling
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hughbartling/
+    - icon: github
+      text: Github
+      href: https://github.com/bartling
+---
+
+I am the Director of the Sustainable Urban Development graduate program and an Associate Professor in the School of Public Service at DePaul University, Chicago USA.
+
+My research focuses on local government responses to the climate crisis as it pertains to climate planning, land use reform, low carbon transport, and the promotion of renewable energy.
