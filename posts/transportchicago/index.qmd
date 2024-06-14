@@ -1,6 +1,6 @@
 ---
-title: "Publication on Bike Share Usage"
-date: "2022-11-11"
+title: "Transport Chicago Poster on Bike Dock Availability"
+date: "2024-06-14"
 categories: [publications]
 ---
 
