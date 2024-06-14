@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hugh Bartling",
     "section": "",
-    "text": "My research focuses on local government responses to the climate crisis as it pertains to climate planning, land use reform, low carbon transport, and the promotion of renewable energy."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Handbook of the Sharing Economy Chapter",
-    "section": "",
-    "text": "I was recently part of an interdisciplinary project looking at the sharing economy. A new book, The Handbook of the Sharing Economy was published late last year in which I have a chapter looking at municipal policies toward shared mobility."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "New Research Article Published",
-    "section": "",
-    "text": "I have a new article published in the Illinois Municipal Policy Journal that analyzes community choice aggregation referendums in Illinois. Check it out here."
+    "text": "Mastodon verification\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransport Chicago Poster on Bike Dock Availability\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPublication on Bike Share Usage\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nNov 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nHandbook of the Sharing Economy Chapter\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nOct 11, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nNew Research Article Published\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nDec 14, 2018\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/bikeshare-publication/index.html",
@@ -28,17 +14,31 @@
     "text": "I have a new article published in the International Journal of Sustainable Transportation that looks at what motivates bike share users to substitute for other modes of transport. You can find the article here."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hugh Bartling",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Handbook of the Sharing Economy Chapter",
     "section": "",
-    "text": "test this\n\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\n\n\nNov 13, 2022\n\n\n\n\n\n\n\n\nPublication on Bike Share Usage\n\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\n\n\nNov 11, 2022\n\n\n\n\n\n\n\n\nHandbook of the Sharing Economy Chapter\n\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\n\n\nOct 11, 2020\n\n\n\n\n\n\n\n\nNew Research Article Published\n\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\n\n\nDec 14, 2018\n\n\n\n\n\n\nNo matching items"
+    "text": "I was recently part of an interdisciplinary project looking at the sharing economy. A new book, The Handbook of the Sharing Economy was published late last year in which I have a chapter looking at municipal policies toward shared mobility."
   },
   {
-    "objectID": "posts/test-post/index.html",
-    "href": "posts/test-post/index.html",
-    "title": "test this",
+    "objectID": "posts/transportchicago/index.html",
+    "href": "posts/transportchicago/index.html",
+    "title": "Transport Chicago Poster on Bike Dock Availability",
     "section": "",
-    "text": "Testing a post to netifly"
+    "text": "I recently presented a poster on bike share station performance at the annual Transport Chicago conference. Here is a copy of the poster:"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "New Research Article Published",
+    "section": "",
+    "text": "I have a new article published in the Illinois Municipal Policy Journal that analyzes community choice aggregation referendums in Illinois. Check it out here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am the Director of the Sustainable Urban Development graduate program and an Associate Professor in the School of Public Service at DePaul University, Chicago USA.\nMy research focuses on local government responses to the climate crisis as it pertains to climate planning, land use reform, low carbon transport, and the promotion of renewable energy."
   }
 ]
