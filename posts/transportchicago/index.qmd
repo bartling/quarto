@@ -1,0 +1,9 @@
+---
+title: "Publication on Bike Share Usage"
+date: "2022-11-11"
+categories: [publications]
+---
+
+I recently presented a poster on bike share station performance at the annual Transport Chicago conference. Here is a copy of the poster:
+
+![](Bartling_Transport_Chicago_Poster_2024.png)

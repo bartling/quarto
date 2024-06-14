@@ -10,7 +10,7 @@ website:
         href: https://github.com/bartling
       - icon: mastodon
         href: https://fediscience.org/@hughbartling
-  page-footer: "Copyright 2022, Hugh Bartling" 
+  page-footer: "Copyright 2024, Hugh Bartling" 
 format:
   html:
     theme: solar
