@@ -4,6 +4,6 @@ date: "2024-06-14"
 categories: [publications]
 ---
 
-I recently presented a poster on bike share station performance at the annual [Transport Chicago conference](https://www.transportchicago.org/tc2024-agenda.html). Click [here](Bartling_Transport_Chicago_Poster_2024.pdf) for a pdf copy.
+I recently presented a poster on bike share station performance at the annual [Transport Chicago conference](https://www.transportchicago.org/tc2024-agenda.html). Click [here](https://drive.google.com/file/d/13UmCNy_fv_Yaeb40HWGwbPrGXNXjrePn/view?usp=sharing) for a pdf copy.
 
 ![](Bartling_Transport_Chicago_Poster_2024.png)
