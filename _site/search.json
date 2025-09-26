@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hugh Bartling",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Handbook of the Sharing Economy Chapter",
     "section": "",
-    "text": "Mastodon verification\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransport Chicago Poster on Bike Dock Availability\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPublication on Bike Share Usage\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nNov 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nHandbook of the Sharing Economy Chapter\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nOct 11, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nNew Research Article Published\n\n\n\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nDec 14, 2018\n\n\n\n\n\n\nNo matching items"
+    "text": "I was recently part of an interdisciplinary project looking at the sharing economy. A new book, The Handbook of the Sharing Economy was published late last year in which I have a chapter looking at municipal policies toward shared mobility."
+  },
+  {
+    "objectID": "posts/publication-on-community-choice-aggregation/index.html",
+    "href": "posts/publication-on-community-choice-aggregation/index.html",
+    "title": "Publication on Community Choice Aggregation",
+    "section": "",
+    "text": "I recently published a paper written with Madeleine Monkman on Community Choice Aggregation and solar adoption in Illinois. You can find it online at Energy Findings.\nBartling, Hugh, and Madeleine Monkman. 2024. “Community Choice Electricity Aggregation and Solar Adoption: Evidence From Illinois.” Findings, October. https:/​/​doi.org/​10.32866/​001c.123825.\nAbstract:\nWe explore whether municipalities voting on the community choice aggregation (CCA) model of electricity procurement relates to the adoption of small-scale distributed solar in the US state of Illinois. Municipalities that held a referendum for CCA were more likely to have small-scale solar installations compared to those that did not. Among municipalities with solar installations, those that held CCA referendums have lower per capita solar power generation than those without CCA referendums. The impacts of CCA referendums on small-scale solar adoption are mixed and should be combined with other strategies to promote broader solar adoption in the U.S. energy market."
   },
   {
     "objectID": "posts/bikeshare-publication/index.html",
@@ -14,18 +21,18 @@
     "text": "I have a new article published in the International Journal of Sustainable Transportation that looks at what motivates bike share users to substitute for other modes of transport. You can find the article here."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Handbook of the Sharing Economy Chapter",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "I was recently part of an interdisciplinary project looking at the sharing economy. A new book, The Handbook of the Sharing Economy was published late last year in which I have a chapter looking at municipal policies toward shared mobility."
+    "text": "I am the Director of the Sustainable Urban Development graduate program and an Associate Professor in the School of Public Service at DePaul University, Chicago USA.\nMy research focuses on local government responses to the climate crisis as it pertains to climate planning, land use reform, low carbon transport, and the promotion of renewable energy."
   },
   {
-    "objectID": "posts/transportchicago/index.html",
-    "href": "posts/transportchicago/index.html",
-    "title": "Transport Chicago Poster on Bike Dock Availability",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hugh Bartling",
     "section": "",
-    "text": "I recently presented a poster on bike share station performance at the annual Transport Chicago conference. Click here for a pdf copy."
+    "text": "Mastodon verification\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublication on Community Choice Aggregation\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nSep 26, 2025\n\n\nBartling, Hugh\n\n\n\n\n\n\n\n\n\n\n\n\nTransport Chicago Poster on Bike Dock Availability\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPublication on Bike Share Usage\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nNov 11, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nHandbook of the Sharing Economy Chapter\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nOct 11, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nNew Research Article Published\n\n\n\npublications\n\n\n\n\n\n\n\n\n\nDec 14, 2018\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -35,10 +42,10 @@
     "text": "I have a new article published in the Illinois Municipal Policy Journal that analyzes community choice aggregation referendums in Illinois. Check it out here."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/transportchicago/index.html",
+    "href": "posts/transportchicago/index.html",
+    "title": "Transport Chicago Poster on Bike Dock Availability",
     "section": "",
-    "text": "I am the Director of the Sustainable Urban Development graduate program and an Associate Professor in the School of Public Service at DePaul University, Chicago USA.\nMy research focuses on local government responses to the climate crisis as it pertains to climate planning, land use reform, low carbon transport, and the promotion of renewable energy."
+    "text": "I recently presented a poster on bike share station performance at the annual Transport Chicago conference. Click here for a pdf copy."
   }
 ]

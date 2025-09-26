@@ -1,0 +1,24 @@
+---
+title: Publication on Community Choice Aggregation
+author: Bartling, Hugh
+date: '2025-09-26'
+categories: [publications]
+---
+
+I recently published a paper written with Madeleine Monkman on Community Choice Aggregation and solar adoption in Illinois. You can find it online at [Energy Findings](https://findingspress.org/article/123825-community-choice-electricity-aggregation-and-solar-adoption-evidence-from-illinois).
+
+Bartling, Hugh, and Madeleine Monkman. 2024. “Community Choice
+Electricity Aggregation and Solar Adoption: Evidence From Illinois.” *Findings*, October. [https:/​/​doi.org/​10.32866/​001c.123825](https://doi.org/10.32866/001c.123825).
+
+Abstract:
+
+We explore whether municipalities voting on the community choice
+aggregation (CCA) model of electricity procurement relates to the
+adoption of small-scale distributed solar in the US state of Illinois.
+Municipalities that held a referendum for CCA were more likely to have
+small-scale solar installations compared to those that did not. Among
+municipalities with solar installations, those that held CCA referendums
+have lower per capita solar power generation than those without CCA
+referendums. The impacts of CCA referendums on small-scale solar
+adoption are mixed and should be combined with other strategies to
+promote broader solar adoption in the U.S. energy market.
