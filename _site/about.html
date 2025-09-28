@@ -143,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>I am the Director of the Sustainable Urban Development graduate program and an Associate Professor in the School of Public Service at DePaul University, Chicago USA.</p>
+<p>I am the Director of the School of Public Service at DePaul University, Chicago USA and teach regularly in our graduate programs of Sustainable Urban Development and Public Policy.</p>
 <p>My research focuses on local government responses to the climate crisis as it pertains to climate planning, land use reform, low carbon transport, and the promotion of renewable energy.</p>
 
 
@@ -216,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/bartling\.github\.io\/quarto\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
